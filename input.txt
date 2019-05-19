@@ -1,0 +1,28 @@
+#include<iostream.h>
+int qwe[3];
+int zxc;
+main()
+{
+	int d=10;int b;int a=20;
+	do{	
+		int abc=10*2;
+		b=10*2;
+		do{
+			a=12*4/3;b=1+12*4/3;
+		}while(abc);
+	}while(b>=10);
+	
+	/*
+	
+	switch(a)
+	{
+		case 1:	b=2*4/3;
+			a=3+2+4/3;
+			break;
+		case 2: a=2*4/3;
+			b=3+2*4/3;
+			d=1+2*4/3;
+			break;
+		default:break;
+	}*/
+}
